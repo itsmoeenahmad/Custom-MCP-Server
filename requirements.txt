@@ -3,4 +3,3 @@ langchain-mcp-adapters
 mcp
 requests
 langgraph
-mcp-use
